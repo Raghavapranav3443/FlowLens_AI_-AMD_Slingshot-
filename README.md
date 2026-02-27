@@ -2,7 +2,7 @@
 
 # ⚡ FlowLens AI
 ### AI-Powered Business Process Intelligence Platform
-**AMD Slingshot Hackathon 2026**
+**Made for AMD Slingshot Hackathon 2026**
 
 [![License](https://img.shields.io/badge/License-FlowLens%20Custom-blue.svg)](./LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://python.org)
@@ -27,7 +27,7 @@ Upload a plain-text workflow chat log. FlowLens instantly parses every event, co
 
 ---
 
-## 🏆 AMD Slingshot Relevance
+## AMD Integration
 
 FlowLens AI is purpose-built to leverage AMD hardware at every layer:
 
