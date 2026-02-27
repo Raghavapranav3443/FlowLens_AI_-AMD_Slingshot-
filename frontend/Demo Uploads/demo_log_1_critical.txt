@@ -1,0 +1,150 @@
+03/01/2025, 08:05 - Kavya: Sent invoice #3001 for ₹4,85,000 to Sundar Corp
+03/01/2025, 11:22 - Rajan: Approved invoice #3001 for ₹4,85,000
+03/01/2025, 17:45 - Mehul: Payment received for invoice #3001 for ₹4,85,000
+03/01/2025, 09:10 - Kavya: Sent invoice #3002 for ₹1,20,000 to Bharat Traders
+03/01/2025, 14:55 - Rajan: Approved invoice #3002 for ₹1,20,000
+04/01/2025, 10:30 - Mehul: Payment received for invoice #3002 for ₹1,20,000
+03/01/2025, 10:00 - Divya: Sent invoice #3003 for ₹2,75,000 to Apex Solutions
+03/01/2025, 13:10 - Rajan: Approved invoice #3003 for ₹2,75,000
+04/01/2025, 09:15 - Mehul: Payment received for invoice #3003 for ₹2,75,000
+04/01/2025, 08:30 - Kavya: Sent invoice #3004 for ₹6,50,000 to Reliance Infra
+04/01/2025, 17:00 - Rajan: Approved invoice #3004 for ₹6,50,000
+06/01/2025, 11:00 - Mehul: Payment received for invoice #3004 for ₹6,50,000
+04/01/2025, 09:00 - Divya: Sent invoice #3005 for ₹38,000 to Quick Supplies
+04/01/2025, 11:45 - Rajan: Approved invoice #3005 for ₹38,000
+05/01/2025, 16:00 - Mehul: Payment received for invoice #3005 for ₹38,000
+05/01/2025, 08:20 - Suresh: Sent invoice #3006 for ₹9,20,000 to Tata Vendors
+05/01/2025, 17:50 - Rajan: Approved invoice #3006 for ₹9,20,000
+07/01/2025, 14:30 - Mehul: Payment received for invoice #3006 for ₹9,20,000
+05/01/2025, 09:30 - Kavya: Sent invoice #3007 for ₹55,000 to Sharma & Co
+05/01/2025, 12:10 - Rajan: Approved invoice #3007 for ₹55,000
+06/01/2025, 18:00 - Mehul: Payment received for invoice #3007 for ₹55,000
+06/01/2025, 08:00 - Divya: Sent invoice #3008 for ₹3,10,000 to NovaTech
+06/01/2025, 17:30 - Rajan: Approved invoice #3008 for ₹3,10,000
+08/01/2025, 15:45 - Mehul: Payment received for invoice #3008 for ₹3,10,000
+06/01/2025, 09:45 - Suresh: Sent invoice #3009 for ₹7,80,000 to Adani Logistics
+07/01/2025, 10:00 - Rajan: Approved invoice #3009 for ₹7,80,000
+09/01/2025, 12:00 - Mehul: Payment received for invoice #3009 for ₹7,80,000
+07/01/2025, 08:15 - Kavya: Sent invoice #3010 for ₹1,65,000 to Prime Parts
+07/01/2025, 16:40 - Rajan: Approved invoice #3010 for ₹1,65,000
+09/01/2025, 10:20 - Mehul: Payment received for invoice #3010 for ₹1,65,000
+07/01/2025, 10:00 - Ananya: Sent invoice #3011 for ₹2,40,000 to Zenith Corp
+07/01/2025, 17:55 - Rajan: Approved invoice #3011 for ₹2,40,000
+09/01/2025, 16:00 - Mehul: Payment received for invoice #3011 for ₹2,40,000
+08/01/2025, 08:30 - Suresh: Sent invoice #3012 for ₹5,00,000 to Global Traders
+09/01/2025, 09:15 - Rajan: Approved invoice #3012 for ₹5,00,000
+11/01/2025, 11:30 - Mehul: Payment received for invoice #3012 for ₹5,00,000
+08/01/2025, 09:00 - Divya: Sent invoice #3013 for ₹88,000 to Micro Systems
+08/01/2025, 17:10 - Rajan: Approved invoice #3013 for ₹88,000
+10/01/2025, 09:00 - Mehul: Payment received for invoice #3013 for ₹88,000
+09/01/2025, 08:00 - Ananya: Sent invoice #3014 for ₹4,20,000 to Horizon Labs
+10/01/2025, 10:30 - Rajan: Approved invoice #3014 for ₹4,20,000
+12/01/2025, 14:00 - Mehul: Payment received for invoice #3014 for ₹4,20,000
+09/01/2025, 09:20 - Kavya: Sent invoice #3015 for ₹72,000 to Spark Electricals
+09/01/2025, 17:45 - Rajan: Approved invoice #3015 for ₹72,000
+11/01/2025, 16:30 - Mehul: Payment received for invoice #3015 for ₹72,000
+10/01/2025, 08:10 - Suresh: Sent invoice #3016 for ₹11,50,000 to Mahindra Infra
+11/01/2025, 11:00 - Rajan: Approved invoice #3016 for ₹11,50,000
+14/01/2025, 10:00 - Mehul: Payment received for invoice #3016 for ₹11,50,000
+10/01/2025, 09:30 - Ananya: Sent invoice #3017 for ₹3,30,000 to Vertex Builders
+11/01/2025, 14:00 - Rajan: Approved invoice #3017 for ₹3,30,000
+13/01/2025, 11:00 - Mehul: Payment received for invoice #3017 for ₹3,30,000
+11/01/2025, 08:00 - Divya: Sent invoice #3018 for ₹1,95,000 to BlueStar Tech
+12/01/2025, 09:30 - Rajan: Approved invoice #3018 for ₹1,95,000
+14/01/2025, 13:00 - Mehul: Payment received for invoice #3018 for ₹1,95,000
+11/01/2025, 10:00 - Kavya: Sent invoice #3019 for ₹6,75,000 to Orchid Pharma
+13/01/2025, 08:45 - Rajan: Approved invoice #3019 for ₹6,75,000
+15/01/2025, 12:00 - Mehul: Payment received for invoice #3019 for ₹6,75,000
+12/01/2025, 08:30 - Suresh: Sent invoice #3020 for ₹43,000 to Delta Packaging
+12/01/2025, 17:00 - Rajan: Approved invoice #3020 for ₹43,000
+14/01/2025, 09:30 - Mehul: Payment received for invoice #3020 for ₹43,000
+13/01/2025, 09:00 - Ananya: Sent invoice #3021 for ₹8,90,000 to Pinnacle Steel
+14/01/2025, 11:30 - Rajan: Approved invoice #3021 for ₹8,90,000
+17/01/2025, 10:00 - Mehul: Payment received for invoice #3021 for ₹8,90,000
+13/01/2025, 10:30 - Divya: Sent invoice #3022 for ₹2,10,000 to Sunrise Cables
+14/01/2025, 15:00 - Rajan: Approved invoice #3022 for ₹2,10,000
+16/01/2025, 16:00 - Mehul: Payment received for invoice #3022 for ₹2,10,000
+14/01/2025, 08:00 - Kavya: Sent invoice #3023 for ₹5,60,000 to Saffron Exports
+16/01/2025, 09:00 - Rajan: Approved invoice #3023 for ₹5,60,000
+18/01/2025, 11:00 - Mehul: Payment received for invoice #3023 for ₹5,60,000
+14/01/2025, 09:15 - Suresh: Sent invoice #3024 for ₹1,40,000 to Cedarwood Retail
+15/01/2025, 10:00 - Rajan: Approved invoice #3024 for ₹1,40,000
+17/01/2025, 14:00 - Mehul: Payment received for invoice #3024 for ₹1,40,000
+15/01/2025, 08:45 - Ananya: Sent invoice #3025 for ₹3,75,000 to Metro Constructions
+15/01/2025, 17:30 - Rajan: Approved invoice #3025 for ₹3,75,000
+17/01/2025, 09:00 - Mehul: Payment received for invoice #3025 for ₹3,75,000
+15/01/2025, 10:00 - Divya: Sent invoice #3026 for ₹95,000 to Coastal Traders
+16/01/2025, 11:00 - Rajan: Approved invoice #3026 for ₹95,000
+18/01/2025, 10:00 - Mehul: Payment received for invoice #3026 for ₹95,000
+16/01/2025, 08:30 - Kavya: Sent invoice #3027 for ₹7,20,000 to Ironclad Metals
+17/01/2025, 09:00 - Rajan: Approved invoice #3027 for ₹7,20,000
+20/01/2025, 11:30 - Mehul: Payment received for invoice #3027 for ₹7,20,000
+16/01/2025, 09:45 - Suresh: Sent invoice #3028 for ₹2,85,000 to Lumex Solutions
+17/01/2025, 14:30 - Rajan: Approved invoice #3028 for ₹2,85,000
+19/01/2025, 10:00 - Mehul: Payment received for invoice #3028 for ₹2,85,000
+17/01/2025, 08:00 - Ananya: Sent invoice #3029 for ₹4,50,000 to Nexgen Systems
+18/01/2025, 16:00 - Rajan: Approved invoice #3029 for ₹4,50,000
+21/01/2025, 09:00 - Mehul: Payment received for invoice #3029 for ₹4,50,000
+17/01/2025, 09:30 - Divya: Sent invoice #3030 for ₹62,000 to Petal Florals
+17/01/2025, 17:00 - Rajan: Approved invoice #3030 for ₹62,000
+19/01/2025, 15:00 - Mehul: Payment received for invoice #3030 for ₹62,000
+18/01/2025, 08:00 - Kavya: Sent invoice #3031 for ₹10,30,000 to Skyline Builders
+20/01/2025, 10:00 - Rajan: Approved invoice #3031 for ₹10,30,000
+23/01/2025, 11:00 - Mehul: Payment received for invoice #3031 for ₹10,30,000
+18/01/2025, 09:00 - Suresh: Sent invoice #3032 for ₹1,80,000 to Amber Textiles
+18/01/2025, 17:20 - Rajan: Approved invoice #3032 for ₹1,80,000
+20/01/2025, 13:00 - Mehul: Payment received for invoice #3032 for ₹1,80,000
+19/01/2025, 08:30 - Ananya: Sent invoice #3033 for ₹3,20,000 to Pioneer Foods
+20/01/2025, 09:00 - Rajan: Approved invoice #3033 for ₹3,20,000
+22/01/2025, 10:30 - Mehul: Payment received for invoice #3033 for ₹3,20,000
+19/01/2025, 10:00 - Divya: Sent invoice #3034 for ₹5,15,000 to Clearview Glass
+21/01/2025, 08:30 - Rajan: Approved invoice #3034 for ₹5,15,000
+23/01/2025, 09:00 - Mehul: Payment received for invoice #3034 for ₹5,15,000
+20/01/2025, 08:15 - Kavya: Sent invoice #3035 for ₹78,000 to Bright Plastics
+20/01/2025, 16:45 - Rajan: Approved invoice #3035 for ₹78,000
+22/01/2025, 14:00 - Mehul: Payment received for invoice #3035 for ₹78,000
+20/01/2025, 09:30 - Suresh: Sent invoice #3036 for ₹6,00,000 to Summit Chemicals
+22/01/2025, 10:00 - Rajan: Approved invoice #3036 for ₹6,00,000
+24/01/2025, 11:00 - Mehul: Payment received for invoice #3036 for ₹6,00,000
+21/01/2025, 08:00 - Ananya: Sent invoice #3037 for ₹2,50,000 to Vega Automations
+21/01/2025, 17:10 - Rajan: Approved invoice #3037 for ₹2,50,000
+23/01/2025, 12:00 - Mehul: Payment received for invoice #3037 for ₹2,50,000
+21/01/2025, 09:20 - Divya: Sent invoice #3038 for ₹4,00,000 to Crest Logistics
+23/01/2025, 09:30 - Rajan: Approved invoice #3038 for ₹4,00,000
+25/01/2025, 10:00 - Mehul: Payment received for invoice #3038 for ₹4,00,000
+22/01/2025, 08:30 - Kavya: Sent invoice #3039 for ₹1,10,000 to Coral Events
+22/01/2025, 17:45 - Rajan: Approved invoice #3039 for ₹1,10,000
+24/01/2025, 16:00 - Mehul: Payment received for invoice #3039 for ₹1,10,000
+22/01/2025, 10:00 - Suresh: Sent invoice #3040 for ₹8,40,000 to Fortress Steel
+24/01/2025, 11:30 - Rajan: Approved invoice #3040 for ₹8,40,000
+27/01/2025, 10:00 - Mehul: Payment received for invoice #3040 for ₹8,40,000
+23/01/2025, 08:00 - Ananya: Sent invoice #3041 for ₹3,60,000 to Amber Pharma
+24/01/2025, 09:00 - Rajan: Approved invoice #3041 for ₹3,60,000
+26/01/2025, 11:00 - Mehul: Payment received for invoice #3041 for ₹3,60,000
+23/01/2025, 09:30 - Divya: Sent invoice #3042 for ₹90,000 to Mini Markets
+23/01/2025, 17:00 - Rajan: Approved invoice #3042 for ₹90,000
+25/01/2025, 10:30 - Mehul: Payment received for invoice #3042 for ₹90,000
+24/01/2025, 08:15 - Kavya: Sent invoice #3043 for ₹5,40,000 to Rapid Couriers
+26/01/2025, 10:00 - Rajan: Approved invoice #3043 for ₹5,40,000
+28/01/2025, 12:00 - Mehul: Payment received for invoice #3043 for ₹5,40,000
+24/01/2025, 09:45 - Suresh: Sent invoice #3044 for ₹2,30,000 to Titan Cables
+25/01/2025, 11:00 - Rajan: Approved invoice #3044 for ₹2,30,000
+27/01/2025, 09:30 - Mehul: Payment received for invoice #3044 for ₹2,30,000
+25/01/2025, 08:00 - Ananya: Sent invoice #3045 for ₹7,10,000 to Crystal Energy
+27/01/2025, 09:00 - Rajan: Approved invoice #3045 for ₹7,10,000
+29/01/2025, 11:00 - Mehul: Payment received for invoice #3045 for ₹7,10,000
+25/01/2025, 09:30 - Divya: Sent invoice #3046 for ₹1,55,000 to Green Earth Agro
+25/01/2025, 17:30 - Rajan: Approved invoice #3046 for ₹1,55,000
+27/01/2025, 14:00 - Mehul: Payment received for invoice #3046 for ₹1,55,000
+26/01/2025, 08:30 - Kavya: Sent invoice #3047 for ₹4,70,000 to Steelmax Infra
+28/01/2025, 10:00 - Rajan: Approved invoice #3047 for ₹4,70,000
+30/01/2025, 11:30 - Mehul: Payment received for invoice #3047 for ₹4,70,000
+26/01/2025, 10:00 - Suresh: Sent invoice #3048 for ₹3,45,000 to Alpine Resorts
+27/01/2025, 14:00 - Rajan: Approved invoice #3048 for ₹3,45,000
+29/01/2025, 10:00 - Mehul: Payment received for invoice #3048 for ₹3,45,000
+27/01/2025, 08:00 - Ananya: Sent invoice #3049 for ₹9,60,000 to Marquee Developers
+29/01/2025, 11:00 - Rajan: Approved invoice #3049 for ₹9,60,000
+01/02/2025, 10:00 - Mehul: Payment received for invoice #3049 for ₹9,60,000
+27/01/2025, 09:15 - Divya: Sent invoice #3050 for ₹68,000 to Flex Packaging
+27/01/2025, 17:00 - Rajan: Approved invoice #3050 for ₹68,000
+29/01/2025, 13:00 - Mehul: Payment received for invoice #3050 for ₹68,000

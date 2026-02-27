@@ -1,0 +1,28 @@
+# FlowLens AI — Backend Requirements
+# Install with: pip install -r requirements.txt
+#
+# For AMD GPU / ROCm support (optional), install PyTorch separately:
+#   pip install torch --index-url https://download.pytorch.org/whl/rocm6.0
+# For CPU-only PyTorch:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# ── Web framework ────────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+
+# ── Data validation (FastAPI dependency, pinned for compatibility) ────────────
+pydantic>=2.7.0
+
+# ── Async HTTP client (Gemini API + Ollama calls) ────────────────────────────
+httpx>=0.27.0
+
+# ── Environment variable loading ─────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── Optional: AMD GPU / ROCm acceleration ───────────────────────────────────
+# Uncomment ONE of the lines below if you want local GPU inference.
+# CPU-only (safe default):
+# torch>=2.2.0
+#
+# AMD ROCm 6.0:
+# torch>=2.2.0 --index-url https://download.pytorch.org/whl/rocm6.0
