@@ -200,31 +200,7 @@ That's it. `start.py` automatically handles:
 - ✅ Starting the React frontend on `http://localhost:3000`
 - ✅ Opening your browser automatically
 
----
-
-### Services After Launch
-
-| Service | URL |
-|---|---|
-| **App** | http://localhost:3000 |
-| **Backend API** | http://localhost:8000 |
-| **API Docs (Swagger)** | http://localhost:8000/docs |
-
 Press `Ctrl+C` in the terminal to stop all services.
-
----
-
-## 🧪 Demo Logs
-
-Three ready-to-use demo chat logs are included in `/demo_logs/` to immediately showcase the full range of FlowLens AI's capabilities:
-
-| File | Scenario | Cases | Actors | Efficiency | Highlight |
-|---|---|---|---|---|---|
-| `demo_log_1_critical.txt` | 🔴 Critical Process | 50 | 6 | Very Low | 100% SLA breach rate, all invoices breached — maximum AI risk alerts and savings potential |
-| `demo_log_2_moderate.txt` | 🟡 Moderate Process | 70 | 6 | Medium | Heavy PAYMENT bottleneck, high actor variance — showcases bottleneck detection |
-| `demo_log_3_efficient.txt` | 🟢 Efficient Process | 70 | 6 | High (≈94) | Only 1 SLA breach, fast cycle times — great contrast benchmark |
-
-**Upload any of these on the dashboard to instantly see the full analysis pipeline in action.**
 
 ---
 
@@ -253,55 +229,6 @@ flowlens-ai/
 ├── .gitignore
 └── LICENSE
 ```
-
----
-
-## 📋 Log Format
-
-FlowLens AI parses chat logs in the following formats:
-
-```
-DD/MM/YYYY, HH:MM - ActorName: message text #invoiceNumber ₹amount
-```
-
-**Supported action keywords** (case-insensitive):
-
-| Keyword in message | Maps to stage |
-|---|---|
-| `sent invoice` | INVOICE_SENT |
-| `approved` | APPROVAL |
-| `payment received` | PAYMENT |
-| `refund initiated` | REFUND_INITIATED |
-| `refund completed` | REFUND_COMPLETED |
-
-**Example:**
-```
-03/01/2025, 08:05 - Priya: Sent invoice #1042 for ₹1,20,000 to Apex Corp
-03/01/2025, 09:55 - Arjun: Approved invoice #1042 for ₹1,20,000
-03/01/2025, 13:10 - Meena: Payment received for invoice #1042 for ₹1,20,000
-```
-
-Multiple date formats, 12h/24h time, and bracket-style WhatsApp exports are all supported.
-
----
-
-## 🔌 API Reference
-
-| Method | Endpoint | Description |
-|---|---|---|
-| `GET` | `/health` | Full system health check (Gemini, Ollama, AMD GPU) |
-| `GET` | `/health/ollama` | Ollama + model availability check |
-| `GET` | `/hardware/amd` | AMD GPU/NPU specs via rocminfo |
-| `POST` | `/analyze` | Cloud analysis via Gemini 2.5 Flash |
-| `POST` | `/analyze-local` | Local analysis via LLaMA 3.2 (blocking) |
-| `POST` | `/analyze-stream` | Local analysis via LLaMA 3.2 (SSE streaming) |
-| `POST` | `/simulate` | What-if scenario simulation |
-| `POST` | `/chat` | Local copilot chat (LLaMA) |
-| `POST` | `/chat-gemini` | Cloud copilot chat (Gemini) |
-| `POST` | `/sop` | SOP generation via LLaMA |
-| `POST` | `/sop-gemini` | SOP generation via Gemini (structured schema) |
-
-Full interactive documentation available at `http://localhost:8000/docs` when the server is running.
 
 ---
 
