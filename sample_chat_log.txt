@@ -1,0 +1,275 @@
+18/02/2026, 08:02 - Rahul: Good morning team! Sent invoice #1001 ₹45,000 to the client
+18/02/2026, 08:15 - Priya: Got it Rahul, will review
+18/02/2026, 08:45 - Priya: Approved invoice #1001, looks good
+18/02/2026, 08:46 - Arjun: ok noted
+18/02/2026, 09:10 - Rahul: Payment received #1001 ₹45,000 from client, confirming now
+18/02/2026, 09:12 - Arjun: great
+18/02/2026, 09:30 - Rahul: Sent invoice #1002 ₹125,000 to the new client
+18/02/2026, 09:45 - Meena: who approved this one?
+18/02/2026, 10:00 - Priya: Approved invoice #1002
+18/02/2026, 10:05 - Meena: ok thanks
+18/02/2026, 12:30 - Rahul: Payment received #1002 ₹125,000, client paid in full
+18/02/2026, 12:35 - Arjun: 👍
+18/02/2026, 13:00 - Rahul: Sent invoice #1003 ₹67,500
+18/02/2026, 13:02 - Meena: Rahul did you send the right amount?
+18/02/2026, 13:05 - Rahul: yes correct amount
+18/02/2026, 13:10 - Meena: ok
+18/02/2026, 15:30 - Priya: Approved invoice #1003, sorry for the delay was in a meeting
+18/02/2026, 17:00 - Rahul: Payment received #1003 ₹67,500
+18/02/2026, 17:05 - Priya: 👍
+19/02/2026, 09:00 - Rahul: Sent invoice #1004 ₹285,000 to enterprise client
+19/02/2026, 09:15 - Arjun: Priya can you check this one quickly
+19/02/2026, 09:20 - Priya: on it
+19/02/2026, 11:00 - Priya: Approved invoice #1004
+19/02/2026, 11:05 - Rahul: thanks Priya
+19/02/2026, 14:00 - Rahul: still waiting on payment #1004
+19/02/2026, 14:30 - Arjun: client said they will pay by EOD
+19/02/2026, 17:45 - Rahul: Payment received #1004 ₹285,000 finally
+19/02/2026, 17:46 - Meena: phew
+19/02/2026, 08:30 - Rahul: Sent invoice #1005 ₹52,000
+19/02/2026, 08:32 - Arjun: Priya please approve asap this client is important
+19/02/2026, 08:45 - Priya: Approved invoice #1005
+19/02/2026, 09:00 - Rahul: Payment received #1005 ₹52,000 wow that was fast
+19/02/2026, 09:01 - Meena: record time lol
+19/02/2026, 09:02 - Arjun: good client
+19/02/2026, 10:00 - Rahul: Sent invoice #1006 ₹38,000
+19/02/2026, 10:05 - Meena: Priya you around?
+19/02/2026, 10:10 - Priya: yeah whats up
+19/02/2026, 10:11 - Meena: invoice #1006 needs approval
+19/02/2026, 10:15 - Priya: Approved invoice #1006
+19/02/2026, 13:00 - Rahul: Payment received #1006 ₹38,000
+19/02/2026, 13:02 - Arjun: nice
+19/02/2026, 14:30 - Rahul: Sent invoice #1007 ₹95,000 to the retail client
+19/02/2026, 14:35 - Meena: is this the same one from last month?
+19/02/2026, 14:37 - Rahul: yes recurring client
+19/02/2026, 14:40 - Meena: ok got it
+19/02/2026, 16:00 - Priya: Approved invoice #1007
+19/02/2026, 19:30 - Rahul: Payment received #1007 ₹95,000 client paid after hours
+19/02/2026, 19:32 - Arjun: at this hour??
+19/02/2026, 19:33 - Rahul: haha yes
+20/02/2026, 08:00 - Rahul: Sent invoice #1008 ₹71,000
+20/02/2026, 08:05 - Arjun: morning all
+20/02/2026, 09:30 - Priya: Approved invoice #1008
+20/02/2026, 11:00 - Rahul: Payment received #1008 ₹71,000
+20/02/2026, 11:02 - Meena: smooth one today
+20/02/2026, 11:30 - Rahul: Sent invoice #1009 ₹43,500
+20/02/2026, 11:45 - Priya: Approved invoice #1009 quickly since I'm here
+20/02/2026, 13:00 - Rahul: Payment received #1009 ₹43,500
+20/02/2026, 13:05 - Arjun: back to back, good day
+20/02/2026, 14:00 - Rahul: Sent invoice #1010 ₹198,000 to overseas client
+20/02/2026, 14:10 - Meena: overseas? so payment might take longer
+20/02/2026, 14:15 - Rahul: yes probably
+20/02/2026, 16:30 - Priya: Approved invoice #1010
+20/02/2026, 20:00 - Rahul: Payment received #1010 ₹198,000 client wired it
+20/02/2026, 20:05 - Arjun: 👍
+21/02/2026, 08:15 - Rahul: Sent invoice #1011 ₹59,000
+21/02/2026, 08:20 - Meena: already? busy morning
+21/02/2026, 10:00 - Priya: Approved invoice #1011 sorry was on a call
+21/02/2026, 12:30 - Rahul: Payment received #1011 ₹59,000
+21/02/2026, 12:32 - Arjun: nice
+21/02/2026, 13:00 - Rahul: Sent invoice #1012 ₹82,000
+21/02/2026, 13:05 - Meena: Priya please check #1012 when you get a chance
+21/02/2026, 14:30 - Priya: Approved invoice #1012
+21/02/2026, 17:00 - Rahul: Payment received #1012 ₹82,000
+21/02/2026, 17:02 - Meena: another one done
+22/02/2026, 09:00 - Rahul: Sent invoice #1013 ₹35,000 to new startup client
+22/02/2026, 09:10 - Arjun: startups sometimes delay payment just fyi
+22/02/2026, 09:15 - Rahul: noted
+22/02/2026, 10:00 - Priya: Approved invoice #1013
+22/02/2026, 16:00 - Rahul: still no payment #1013
+22/02/2026, 16:05 - Arjun: told you
+22/02/2026, 16:10 - Meena: should we follow up?
+22/02/2026, 16:12 - Rahul: yes calling them now
+22/02/2026, 18:30 - Rahul: Payment received #1013 ₹35,000 after followup call
+22/02/2026, 18:32 - Priya: good persistence
+22/02/2026, 08:45 - Rahul: Sent invoice #1014 ₹116,000
+22/02/2026, 09:00 - Priya: Approved invoice #1014
+22/02/2026, 10:30 - Rahul: Payment received #1014 ₹116,000
+22/02/2026, 10:32 - Arjun: clean process today
+22/02/2026, 11:00 - Rahul: Sent invoice #1015 ₹48,500
+22/02/2026, 11:30 - Priya: Approved invoice #1015
+22/02/2026, 13:00 - Rahul: Payment received #1015 ₹48,500
+22/02/2026, 13:05 - Meena: good rhythm today
+22/02/2026, 14:00 - Rahul: Sent invoice #1016 ₹425,000 to the manufacturing client
+22/02/2026, 14:05 - Arjun: big one?
+22/02/2026, 14:07 - Rahul: yes largest this week
+22/02/2026, 14:10 - Arjun: Priya please prioritize #1016
+22/02/2026, 15:00 - Priya: Approved invoice #1016 done
+22/02/2026, 18:00 - Rahul: Payment received #1016 ₹425,000 client paid same day
+22/02/2026, 18:02 - Arjun: excellent
+22/02/2026, 18:03 - Meena: that client is great
+23/02/2026, 08:00 - Rahul: Sent invoice #1017 ₹63,000
+23/02/2026, 08:30 - Priya: Approved invoice #1017
+23/02/2026, 10:00 - Rahul: Payment received #1017 ₹63,000
+23/02/2026, 10:05 - Meena: smooth
+23/02/2026, 10:30 - Rahul: Sent invoice #1018 ₹89,000
+23/02/2026, 11:00 - Priya: Approved invoice #1018
+23/02/2026, 13:30 - Rahul: Payment received #1018 ₹89,000
+23/02/2026, 13:35 - Arjun: good day so far
+23/02/2026, 14:30 - Rahul: Sent invoice #1019 ₹54,000
+23/02/2026, 15:00 - Priya: Approved invoice #1019
+23/02/2026, 17:00 - Rahul: Payment received #1019 ₹54,000
+23/02/2026, 17:05 - Meena: three in one day!
+23/02/2026, 17:06 - Arjun: new record?
+23/02/2026, 17:08 - Rahul: haha maybe
+24/02/2026, 09:00 - Rahul: Sent invoice #1020 ₹135,000 to logistics client
+24/02/2026, 09:10 - Meena: Priya are you in today?
+24/02/2026, 09:15 - Priya: yes just late, Approved invoice #1020
+24/02/2026, 11:00 - Rahul: Payment received #1020 ₹135,000
+24/02/2026, 11:05 - Arjun: nice
+24/02/2026, 12:00 - Rahul: Sent invoice #1021 ₹76,000
+24/02/2026, 13:30 - Priya: Approved invoice #1021 after lunch
+24/02/2026, 15:30 - Rahul: Payment received #1021 ₹76,000
+24/02/2026, 15:35 - Meena: consistent today
+24/02/2026, 16:00 - Rahul: Sent invoice #1022 ₹41,000
+24/02/2026, 16:30 - Priya: Approved invoice #1022
+24/02/2026, 18:30 - Rahul: Payment received #1022 ₹41,000
+24/02/2026, 18:32 - Arjun: wrapping up nicely
+25/02/2026, 08:30 - Rahul: Sent invoice #1023 ₹92,000
+25/02/2026, 09:00 - Priya: Approved invoice #1023
+25/02/2026, 10:30 - Rahul: Payment received #1023 ₹92,000
+25/02/2026, 10:35 - Meena: good morning everyone lol catching up
+25/02/2026, 11:00 - Rahul: Sent invoice #1024 ₹168,000 to healthcare client
+25/02/2026, 11:05 - Arjun: healthcare clients always pay on time
+25/02/2026, 11:30 - Priya: Approved invoice #1024
+25/02/2026, 12:30 - Rahul: Payment received #1024 ₹168,000 as expected
+25/02/2026, 12:32 - Arjun: called it
+25/02/2026, 13:30 - Rahul: Sent invoice #1025 ₹55,000
+25/02/2026, 14:00 - Priya: Approved invoice #1025
+25/02/2026, 16:00 - Rahul: Payment received #1025 ₹55,000
+25/02/2026, 16:05 - Meena: end of week strong
+25/02/2026, 16:06 - Arjun: great week team
+25/02/2026, 16:08 - Priya: 👍
+26/02/2026, 09:00 - Rahul: Sent invoice #1026 ₹215,000 to tech client
+26/02/2026, 09:15 - Priya: Approved invoice #1026
+26/02/2026, 10:00 - Rahul: Payment received #1026 ₹215,000
+26/02/2026, 10:02 - Meena: tech clients are quick
+26/02/2026, 10:30 - Rahul: Sent invoice #1027 ₹73,000
+26/02/2026, 11:00 - Priya: Approved invoice #1027
+26/02/2026, 13:00 - Rahul: Payment received #1027 ₹73,000
+26/02/2026, 13:05 - Arjun: good
+26/02/2026, 14:00 - Rahul: Sent invoice #1028 ₹28,000 refund case
+26/02/2026, 14:05 - Meena: refund? what happened
+26/02/2026, 14:08 - Rahul: client overpaid last month
+26/02/2026, 14:10 - Meena: ah ok
+26/02/2026, 15:00 - Priya: Approved invoice #1028
+26/02/2026, 15:05 - Arjun: Rahul initiate the refund once approved
+26/02/2026, 15:10 - Rahul: Refund initiated #1028 ₹28,000
+26/02/2026, 17:00 - Rahul: Refund completed #1028 ₹28,000 client confirmed
+26/02/2026, 17:02 - Priya: good handling
+26/02/2026, 17:30 - Rahul: Sent invoice #1029 ₹104,000
+26/02/2026, 18:00 - Priya: Approved invoice #1029
+26/02/2026, 20:00 - Rahul: Payment received #1029 ₹104,000 client paid after hours again
+26/02/2026, 20:05 - Arjun: these clients dont sleep
+27/02/2026, 08:00 - Rahul: Sent invoice #1030 ₹61,000
+27/02/2026, 08:30 - Priya: Approved invoice #1030 early bird
+27/02/2026, 09:30 - Rahul: Payment received #1030 ₹61,000
+27/02/2026, 09:32 - Meena: wow quick
+27/02/2026, 10:00 - Rahul: Sent invoice #1031 ₹145,000
+27/02/2026, 10:30 - Priya: Approved invoice #1031
+27/02/2026, 12:00 - Rahul: Payment received #1031 ₹145,000
+27/02/2026, 12:02 - Arjun: smooth operations today
+27/02/2026, 13:00 - Rahul: Sent invoice #1032 ₹178,000 to media client
+27/02/2026, 13:10 - Meena: Priya this one has special terms check the notes
+27/02/2026, 13:15 - Priya: ok checking
+27/02/2026, 14:30 - Priya: Approved invoice #1032 checked the terms all good
+27/02/2026, 17:30 - Rahul: Payment received #1032 ₹178,000
+27/02/2026, 17:32 - Arjun: good
+27/02/2026, 18:00 - Rahul: Sent invoice #1033 ₹85,000
+27/02/2026, 18:30 - Priya: Approved invoice #1033
+27/02/2026, 21:00 - Rahul: Payment received #1033 ₹85,000 late payment came in
+27/02/2026, 21:02 - Meena: you're still working at 9pm??
+27/02/2026, 21:03 - Rahul: haha monitoring payments
+28/02/2026, 08:15 - Rahul: Sent invoice #1034 ₹96,000
+28/02/2026, 08:45 - Priya: Approved invoice #1034
+28/02/2026, 10:00 - Rahul: Payment received #1034 ₹96,000
+28/02/2026, 10:05 - Arjun: solid
+28/02/2026, 10:30 - Rahul: Sent invoice #1035 ₹320,000 to government client
+28/02/2026, 10:35 - Meena: government clients take forever
+28/02/2026, 10:40 - Arjun: true usually 30 days
+28/02/2026, 11:00 - Priya: Approved invoice #1035
+28/02/2026, 17:00 - Rahul: no payment yet on #1035 as expected
+28/02/2026, 17:05 - Meena: told you
+28/02/2026, 17:10 - Arjun: its fine its government SLA is different
+28/02/2026, 19:00 - Rahul: Payment received #1035 ₹320,000 surprisingly fast for government
+28/02/2026, 19:02 - Meena: wow shocked
+28/02/2026, 19:03 - Arjun: nice exception
+01/03/2026, 09:00 - Rahul: Sent invoice #1036 ₹68,000
+01/03/2026, 09:30 - Priya: Approved invoice #1036
+01/03/2026, 11:00 - Rahul: Payment received #1036 ₹68,000
+01/03/2026, 11:02 - Arjun: 👍
+01/03/2026, 12:00 - Rahul: Sent invoice #1037 ₹152,000 to education client
+01/03/2026, 12:05 - Meena: education sector is usually slow too
+01/03/2026, 13:00 - Priya: Approved invoice #1037
+01/03/2026, 15:30 - Rahul: Payment received #1037 ₹152,000 faster than expected
+01/03/2026, 15:32 - Meena: nice surprise
+01/03/2026, 16:00 - Rahul: Sent invoice #1038 ₹79,000
+01/03/2026, 16:30 - Priya: Approved invoice #1038
+01/03/2026, 18:00 - Rahul: Payment received #1038 ₹79,000
+01/03/2026, 18:02 - Arjun: good end to the month
+01/03/2026, 18:30 - Rahul: Sent invoice #1039 ₹113,000
+01/03/2026, 19:00 - Priya: Approved invoice #1039
+01/03/2026, 21:30 - Rahul: Payment received #1039 ₹113,000 last one of the month
+01/03/2026, 21:32 - Meena: great month team!
+01/03/2026, 21:33 - Arjun: well done everyone
+01/03/2026, 21:35 - Priya: proud of us 👏
+01/03/2026, 08:00 - Rahul: New month! Sent invoice #1040 ₹84,000
+01/03/2026, 08:10 - Arjun: fresh start
+01/03/2026, 08:30 - Priya: Approved invoice #1040
+01/03/2026, 09:30 - Rahul: Payment received #1040 ₹84,000
+01/03/2026, 09:32 - Meena: quick start to March
+01/03/2026, 10:00 - Rahul: Sent invoice #1041 ₹57,000
+01/03/2026, 10:15 - Priya: Approved invoice #1041
+01/03/2026, 11:30 - Rahul: Payment received #1041 ₹57,000
+01/03/2026, 11:35 - Arjun: consistent
+01/03/2026, 13:00 - Rahul: Sent invoice #1042 ₹245,000 to fintech client
+01/03/2026, 13:05 - Meena: fintech clients are usually very prompt
+01/03/2026, 13:30 - Priya: Approved invoice #1042
+01/03/2026, 14:00 - Rahul: Payment received #1042 ₹245,000 as expected very fast
+01/03/2026, 14:02 - Meena: called it
+01/03/2026, 14:30 - Rahul: Sent invoice #1043 ₹91,000
+01/03/2026, 15:00 - Priya: Approved invoice #1043
+01/03/2026, 17:00 - Rahul: Payment received #1043 ₹91,000
+01/03/2026, 17:05 - Arjun: good first day of March
+02/03/2026, 09:00 - Rahul: Sent invoice #1044 ₹102,000
+02/03/2026, 09:30 - Priya: Approved invoice #1044
+02/03/2026, 11:00 - Rahul: Payment received #1044 ₹102,000
+02/03/2026, 11:02 - Meena: nice
+02/03/2026, 11:30 - Rahul: Sent invoice #1045 ₹42,000 refund case from last quarter
+02/03/2026, 11:35 - Arjun: another refund?
+02/03/2026, 11:38 - Rahul: yes billing error from our side
+02/03/2026, 11:40 - Arjun: ah ok we need to fix that process
+02/03/2026, 12:00 - Priya: Approved invoice #1045
+02/03/2026, 12:10 - Rahul: Refund initiated #1045 ₹42,000
+02/03/2026, 14:00 - Rahul: Refund completed #1045 ₹42,000 client happy
+02/03/2026, 14:02 - Priya: good resolution
+02/03/2026, 14:05 - Arjun: Meena can you look into why billing errors are happening
+02/03/2026, 14:08 - Meena: on it will check the records
+02/03/2026, 15:00 - Rahul: Sent invoice #1046 ₹138,000
+02/03/2026, 15:30 - Priya: Approved invoice #1046
+02/03/2026, 17:30 - Rahul: Payment received #1046 ₹138,000
+02/03/2026, 17:32 - Arjun: good
+03/03/2026, 08:30 - Rahul: Sent invoice #1047 ₹74,000
+03/03/2026, 09:00 - Priya: Approved invoice #1047
+03/03/2026, 10:30 - Rahul: Payment received #1047 ₹74,000
+03/03/2026, 10:35 - Meena: smooth
+03/03/2026, 11:00 - Rahul: Sent invoice #1048 ₹380,000 to retail chain client
+03/03/2026, 11:05 - Arjun: big retail client?
+03/03/2026, 11:08 - Rahul: yes 5 locations
+03/03/2026, 11:10 - Arjun: nice
+03/03/2026, 12:00 - Priya: Approved invoice #1048
+03/03/2026, 14:00 - Rahul: Payment received #1048 ₹380,000 paid for all 5 locations
+03/03/2026, 14:02 - Meena: big one!
+03/03/2026, 14:03 - Arjun: excellent
+03/03/2026, 15:00 - Rahul: Sent invoice #1049 ₹66,000
+03/03/2026, 15:30 - Priya: Approved invoice #1049
+03/03/2026, 17:00 - Rahul: Payment received #1049 ₹66,000
+03/03/2026, 17:05 - Arjun: great day
+04/03/2026, 09:00 - Rahul: Sent invoice #1050 ₹195,000 milestone invoice!
+04/03/2026, 09:05 - Meena: 50th invoice this cycle wow
+04/03/2026, 09:08 - Arjun: team is crushing it
+04/03/2026, 09:30 - Priya: Approved invoice #1050 milestone approved!
+04/03/2026, 10:30 - Rahul: Payment received #1050 ₹195,000 milestone paid!
+04/03/2026, 10:32 - Meena: 🎉
+04/03/2026, 10:33 - Arjun: great work team Rahul Priya Meena all of you
+04/03/2026, 10:35 - Priya: team effort!
